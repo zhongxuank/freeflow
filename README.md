@@ -23,6 +23,10 @@
   <i>Thank you to <a href="https://github.com/marcbodea">@marcbodea</a> for maintaining FreeFlow!</i>
 </p>
 
+## About this fork
+
+This is a personal fork of [zachlatta/freeflow](https://github.com/zachlatta/freeflow) (MIT licensed), extended with the help of AI coding tools (Claude Code). The goal is a dictation app with stronger context-aware cleanup, tuned for my own daily use on macOS. All credit for the original app goes to Zach Latta and the FreeFlow contributors; upstream is tracked as the `upstream` remote.
+
 ## Overview
 
 FreeFlow is a free Mac dictation app inspired by [Wispr Flow](https://wisprflow.ai/), [Superwhisper](https://superwhisper.com/), and [Monologue](https://www.monologue.to/). It gives you fast AI transcription, context-aware cleanup, and voice-driven text editing without a monthly subscription.
